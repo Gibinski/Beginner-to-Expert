@@ -1,5 +1,5 @@
 # --------------------------------------------------------------
-# --------------**## Decoration functing with parameters ##**--------------
+# --------------**## Decorators  prerequistes ##**--------------
 
 
 # --**--**--**--**--** Ecample 6 ->>>> function with parameters
