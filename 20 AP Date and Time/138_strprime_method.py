@@ -24,11 +24,11 @@ date_str2 = "31/01/2019 12:20:30" # 31 January, 2019 12:20:30
 
 # considering date is in dd/mm/yyyy format
 date_obj1 = datetime.strptime(date_str1, "%d/%m/%Y")
-
 print("The type of the date object1:", type(date_obj1))
-print("The type of the date object2:", type(date_obj2))
+print("Date Object 1:", date_obj1)
+
 
 # considering date is in mm/dd/yyyy format
 date_obj2 = datetime.strptime(date_str2, "%d/%m/%Y %H:%M:%S")
-print("Date Object 1:", date_obj1)
+print("The type of the date object2:", type(date_obj2))
 print("Date Object 2:", date_obj2)
